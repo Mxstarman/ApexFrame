@@ -1,0 +1,6 @@
+{
+  "name": "ApexFrame",
+  "description": "High-performance screen recorder with stealth floating control ball, 4K/60FPS capture, dual audio mixer, screen annotator, and built-in video trimmer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
